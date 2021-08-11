@@ -50,9 +50,11 @@ body {
 }
 
 
-.btnLight {
+.btnLight, .btnLight:focus {
     color: white;
     background-color: #222222;
+    outline: none;
+    box-shadow: none;
 }
 
 .btnLight:hover {
