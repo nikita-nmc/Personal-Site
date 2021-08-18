@@ -44,6 +44,13 @@ body {
     box-shadow: none;
 }
 
+.btn:hover {
+    color: #2871F4;
+    background-color: white;
+    outline: none;
+    box-shadow: none;
+}
+
 .btnLight {
     color: white;
     background-color: #222222;
@@ -51,4 +58,10 @@ body {
     box-shadow: none;
 }
 
+.btnLight:hover  {
+    color: #2871F4;
+    background-color: #222222;
+    outline: none;
+    box-shadow: none;
+}
 
